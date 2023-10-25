@@ -4,8 +4,13 @@ img {
 }
 
 nav li{
-     display: inline;
-     margin: 0 -156px 0 0px;
+display: inline-flex;
+margin: -198px -156px -157px 14px;
+flex-direction: column-reverse;
+flex-wrap: nowrap;
+justify-content: space-around;
+align-items: center;
+align-content: stretch;
 }
 
 nav a{
