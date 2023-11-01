@@ -3,21 +3,32 @@ img {
      margin-left: 50px;
 }
 
-nav li{
-display: inline-flex;
-margin: -198px -156px -157px 14px;
-flex-direction: column-reverse;
-flex-wrap: nowrap;
-justify-content: space-around;
-align-items: center;
-align-content: stretch;
+header {
+     background: alicebrgb(237, 246, 253)
+     padding: 20px 0;
 }
 
-nav a{
-text-transform: uppercase;
-color: #707070;
-font-weight: bold;
-font-size: 15px;
-text-decoration: none;
-margin-left: 20px;
+.caixa {
+     position: relative;
+     width: 940px;
+     margin: auto;
+}
+
+nav {
+     position: absolute;
+     top: 110px;
+     right: 0;
+}
+
+nav li {
+     display: inline;
+     margin: 0 0 0 15px;
+}
+
+nav a {
+     text-transform: uppercase;
+     color: #000000;
+     font-weight: bold;
+     font-size: 22px;
+     text-decoration: none;
 }
