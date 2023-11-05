@@ -22,9 +22,9 @@ nav {
 }
 
 nav li {
-     display: inline;
-     margin: 0 0 0 15px;
-}
+     display: inline-flex;
+     margin: -1px 1px -1px 61px;
+ }
 
 nav a {
      text-transform: uppercase;
