@@ -1,4 +1,4 @@
-img {
+#LogoLanche {
      height: 312px;
      margin-left: 85px;
      background-color: #cacd07;
@@ -35,6 +35,6 @@ nav a {
 }
 
 #Macbacon{
-     background-color: #ffffff;
+     color: #ffffff;
 
 }
