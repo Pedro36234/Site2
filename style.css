@@ -99,6 +99,7 @@ main{
 .lanche img {
     width: 65%;
     margin-bottom: -32px;
+    box-shadow: 2px -2px 46px rgb(9 0 0 / 20%);
 }
 
 .lanche h2 {
