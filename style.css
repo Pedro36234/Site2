@@ -81,3 +81,15 @@ main{
     background-color: #cacd07;
     padding-top: 5px;
 }
+
+#osmaisqueridinhos {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    position: relative;
+    top: 50px;
+    transform: rotate(-15deg);
+    transform-origin: 50% 100%;
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: inline-block;
+}
