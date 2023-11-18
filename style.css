@@ -5,6 +5,7 @@
 }
 
 header {
+    background: linear-gradient(to bottom, #3498db, #2980b9);
     background-color: #ffff00;
     padding: 0;
     height: 259px;
