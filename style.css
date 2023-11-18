@@ -19,16 +19,18 @@
  nav {
      position: absolute;
      top: 222px;
-     right: 430px;
+     left: 50%; /* Alterado de 'right: 430px;' para 'left: 50%;' */
+     transform: translateX(-50%); /* Centraliza horizontalmente */
  }
  
  nav ul {
      color: black;
+     text-align: center; /* Centraliza os itens do menu */
  }
  
  nav li {
      display: inline-flex;
-     margin: -1px 1px -1px 61px;
+     margin: 0 30px; /* Espaçamento entre os itens do menu */
  }
  
  nav a {
