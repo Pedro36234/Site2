@@ -5,7 +5,7 @@
 }
 
 header {
-    background-color: #cacd07;
+    background-color: #dee100;
     padding: 0;
     height: 323px;
 }
@@ -74,5 +74,6 @@ nav a {
 }
 
 main{
-    background-color: aqua;
+    background-color: #cacd07;
+    padding-top: 5px;
 }
