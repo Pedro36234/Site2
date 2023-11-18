@@ -67,8 +67,12 @@ nav a {
 }
 
 #MacDog{
-
+    font-family: sans-serif;
+    margin-top: 144px;
+    margin-left: 84px;
+    margin-bottom: -25px;
 }
+
 main{
     background-color: aqua;
 }
