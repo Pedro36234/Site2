@@ -3,58 +3,65 @@
     margin-left: 109px;
     background-color: #cacd07;
 }
- 
- header {
-     background-color: #cacd07;
-     padding: 0;
-     height: 323px;
- }
- 
- .header-line {
-     width: 100%;
-     height: 10px;
-     background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
- }
- 
- nav {
-     position: absolute;
-     top: 233px;
-     left: 51%;
-     transform: translateX(-49%);
- }
- 
- nav ul {
-     color: black;
-     text-align: center;
-     margin-right: -200px;
- }
- 
- nav li {
-     display: inline-flex;
-     margin: 0 30px; /* Espaçamento entre os itens do menu */
- }
- 
- nav a {
-     text-transform: uppercase;
-     color: #ffffff;
-     font-weight: bold;
-     font-size: 21px;
-     text-decoration: none;
-     font-family: sans-serif;
- }
 
- #poucodenos{
-     height: 122px;
-     margin-left: 568px;
-     margin-bottom: 75px;
-}
- 
-#algumasperguntas{
-     height: 122px;
-     margin-left: 568px;
-     margin-bottom: 75px;
+header {
+    background-color: #cacd07;
+    padding: 0;
+    height: 323px;
 }
 
-#MacDogimg{
+.header-line {
+    width: 100%;
+    height: 10px;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
 
+nav {
+    position: absolute;
+    top: 233px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+nav ul {
+    color: black;
+    text-align: center;
+}
+
+nav li {
+    display: inline-flex;
+    margin: 0 30px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 21px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+#poucodenos {
+    height: 122px;
+    margin-left: 568px;
+    margin-bottom: 75px;
+}
+
+#algumasperguntas {
+    height: 122px;
+    margin-left: 568px;
+    margin-bottom: 75px;
+}
+
+#MacDogimg {
+    /* Adicione estilos para a imagem do MacDog, se necessário */
+}
+
+#MacTudoimg {
+    /* Adicione estilos para a imagem do MacTudo, se necessário */
+}
+
+#MacSimplesimg {
+    /* Adicione estilos para a imagem do MacSimples, se necessário */
 }
