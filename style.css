@@ -2,53 +2,48 @@
      height: 312px;
      margin-left: 85px;
      background-color: #cacd07;
-}
-
-header {
+ }
+ 
+ header {
      background-color: #cacd07;
-     padding: 0px 0;
+     padding: 0;
      height: 323px;
-}
-
-.caixa {
-     position: relative;
-     width: 940px;
-     margin: auto;
-}
-
-nav {
+ }
+ 
+ .header-line {
+     width: 100%;
+     height: 10px;
+     background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+ }
+ 
+ nav {
      position: absolute;
      top: 222px;
      right: 430px;
  }
-
-nav li {
+ 
+ nav ul {
+     color: black;
+ }
+ 
+ nav li {
      display: inline-flex;
      margin: -1px 1px -1px 61px;
  }
-
-nav a {
+ 
+ nav a {
      text-transform: uppercase;
      color: #ffffff;
      font-weight: bold;
      font-size: 22px;
      text-decoration: none;
-}
-
-#Macbacon{
-     margin-left: -46px;
-     margin-top: -32px;
-     height: 232px;
-
-}
-nav ul{
-     color: black;
-}
-
-#circulovermelho{
+ }
+ 
+ #circulovermelho {
      margin-top: -386px;
      margin-left: -181px;
      rotate: 270deg;
      margin-bottom: 65px;
      height: 455px;
-}
+ }
+ 
