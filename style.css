@@ -70,12 +70,13 @@ main{
 #osmaisqueridinhos {
     font-size: 30px;
     font-family: sans-serif;
-    padding: 11px;
-    display: inline;
-    margin-left: 107px;
+    display: inline-block;
+    margin-left: -372px;
     text-transform: uppercase;
     border-radius: 33px;
-    background-color: ;
+    background-color: #0a4b7a;
+    padding-left: 519px;
+    padding-right: 467px;
 }
 
 .main-content {
