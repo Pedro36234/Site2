@@ -64,15 +64,14 @@ main{
 }
 
 #osmaisqueridinhos {
-    font-size: 36px;
+    font-size: 30px;
     font-family: sans-serif;
     background-color: #ff730d;
-    padding: 10px;
-    display: inline-block;
-    margin-left: 472px;
+    padding: 11px;
+    display: inline;
+    margin-left: 107px;
     text-transform: uppercase;
-    margin-top: -13px;
-    border-radius
+    border-radius: 33px;
 }
 
 .main-content {
