@@ -34,7 +34,7 @@ nav ul {
 
 nav li {
     display: inline-flex;
-    margin: 0 30px;
+    margin: 0 -16px;
 }
 
 nav a {
