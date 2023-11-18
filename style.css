@@ -1,8 +1,8 @@
 #LogoLanche {
-     height: 312px;
-     margin-left: 85px;
-     background-color: #cacd07;
- }
+    height: 312px;
+    margin-left: 109px;
+    background-color: #cacd07;
+}
  
  header {
      background-color: #cacd07;
@@ -18,14 +18,15 @@
  
  nav {
      position: absolute;
-     top: 222px;
-     left: 50%; /* Alterado de 'right: 430px;' para 'left: 50%;' */
-     transform: translateX(-50%); /* Centraliza horizontalmente */
+     top: 233px;
+     left: 51%;
+     transform: translateX(-49%);
  }
  
  nav ul {
      color: black;
-     text-align: center; /* Centraliza os itens do menu */
+     text-align: center;
+     margin-right: -200px;
  }
  
  nav li {
@@ -37,8 +38,9 @@
      text-transform: uppercase;
      color: #ffffff;
      font-weight: bold;
-     font-size: 22px;
+     font-size: 21px;
      text-decoration: none;
+     font-family: sans-serif;
  }
  
  #circulovermelho {
