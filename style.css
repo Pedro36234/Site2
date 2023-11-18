@@ -83,13 +83,12 @@ main{
 }
 
 #osmaisqueridinhos {
-    font-size: 24px;
-    font-family: Arial, sans-serif;
-    position: relative;
-    top: 50px;
-    transform: rotate(-15deg);
-    transform-origin: 50% 100%;
-    background-color: #f0f0f0;
+    font-size: 36px;
+    font-family: sans-serif;
+    background-color: #ff730d;
     padding: 10px;
     display: inline-block;
+    margin-left: 472px;
+    text-transform: uppercase;
+    margin-top: -13px;
 }
