@@ -98,21 +98,28 @@ main{
 .lanche h2 {
     font-size: 27px;
     font-family: sans-serif;
-    margin-bottom: 10px
+    margin-bottom: -24px;
 }
 
 .lanche .descricao {
     font-style: italic;
-    margin-bottom: 10px;
+    margin-bottom: -16px;
+    font-size: 22px;
 }
 
 .lanche .preco {
-    color: green;
-    font-size: 1.2em;
+    font-family: sans-serif;
+    color: #008c00;
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 21px;
 }
 
 .lanche .desconto {
-    color: red;
+    color: #970000;
     text-decoration: line-through;
-    margin-top: 5px;
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: -35px;
 }
