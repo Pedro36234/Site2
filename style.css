@@ -91,9 +91,8 @@ main{
 }
 
 .lanche img {
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 10px;
+    width: 65%;
+    margin-bottom: -32px;
 }
 
 .lanche h2 {
