@@ -37,16 +37,13 @@ nav li {
 }
 
 nav a {
-    font-size: 20px;
+    font-size: 18px;
     font-family: sans-serif;
-    background-color: #ffff00;
     padding: 10px;
     margin-left: 107px;
-    color: black;
-    text-transform: uppercase;
-    border-radius: 297px;
+    color: #ffffff;
+    border-radius: 295px;
     text-decoration: none;
-    font-weight: 600;
 }
 
 #poucodenos {
@@ -77,6 +74,7 @@ main{
     padding-right: 495px;
     padding-left: 490px;
     margin-top: 26px;
+    color: whitesmoke;
 }
 
 .main-content {
