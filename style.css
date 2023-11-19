@@ -166,27 +166,16 @@ footer {
     text-align: center;
 }
 
-
-.footer-section {
-    flex: 1;
-    text-align: left;
-}
-
-.footer-section h3 {
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-.footer-section ul {
+.footer-content ul {
     list-style: none;
     padding: 0;
 }
 
-.footer-section li {
+.footer-content li {
     margin-bottom: 8px;
 }
 
-.footer-section a {
+.footer-content a {
     text-decoration: none;
     color: #000; /* Change the color to your preference */
     font-weight: bold;
