@@ -167,11 +167,6 @@ footer {
 }
 
 .dentrofooter {
-    display: flex;
-    justify-content: space-around;
-}
-
-.dentrofooter {
     flex: 1;
     text-align: center;
 }
