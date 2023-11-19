@@ -160,7 +160,39 @@ main{
     height: 500px;
 }
 
-footer{
-    height: 150px;
+footer {
     background-color: #ffff00;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-section {
+    flex: 1;
+    text-align: left;
+}
+
+.footer-section h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-section li {
+    margin-bottom: 8px;
+}
+
+.footer-section a {
+    text-decoration: none;
+    color: #000; /* Change the color to your preference */
+    font-weight: bold;
+    font-size: 16px;
 }
