@@ -130,3 +130,9 @@ main{
     font-weight: bold;
     margin-top: -35px;
 }
+
+.banner-container {
+    height: 33px;
+    text-align: center;
+    margin-top: 20px; /* Ajuste conforme necessário */
+}
