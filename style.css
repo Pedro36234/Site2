@@ -1,11 +1,11 @@
 #LogoLanche {
     height: 258px;
     margin-left: 422px;
-    background: linear-gradient(to bottom, #06456f, #3e94ff);
+    background-color: yellow;
 }
 
 header {
-    background: linear-gradient(to bottom, #06456f, #3e94ff);
+    background-color: yellow;
     padding: 0;
     height: 259px;
 }
