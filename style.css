@@ -39,14 +39,11 @@ nav li {
 nav a {
     font-size: 20px;
     font-family: sans-serif;
-    background-color: #ffff00;
     padding: 10px;
     margin-left: 107px;
-    color: black;
-    text-transform: uppercase;
+    color: white;
     border-radius: 297px;
     text-decoration: none;
-    font-weight: 600;
 }
 
 #poucodenos {
