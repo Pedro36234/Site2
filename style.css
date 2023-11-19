@@ -1,3 +1,4 @@
+/* cabeçalho Styles */
 #LogoLanche {
     height: 258px;
     margin-left: 422px;
@@ -8,11 +9,6 @@ header {
     background-color: yellow;
     padding: 0;
     height: 259px;
-}
-
-.header-line {
-    width: 100%;
-    height: 10px;
 }
 
 nav {
@@ -47,24 +43,6 @@ nav a {
     margin-top: -41px;
 }
 
-#poucodenos {
-    height: 122px;
-    margin-left: 568px;
-    margin-bottom: 75px;
-}
-
-#algumasperguntas {
-    height: 122px;
-    margin-left: 568px;
-    margin-bottom: 75px;
-}
-
-main{
-    background-color: #3e94ff;
-    padding-top: 32px;
-    padding-bottom: 50px;
-}
-
 #osmaisqueridinhos {
     font-size: 30px;
     font-family: sans-serif;
@@ -76,6 +54,13 @@ main{
     padding-left: 491px;
     margin-top: -3px;
     color: white;
+}
+
+/* Corpo do Site style */
+main {
+    background-color: #3e94ff;
+    padding-top: 32px;
+    padding-bottom: 50px;
 }
 
 .main-content {
@@ -134,12 +119,13 @@ main{
     text-align: center;
     margin-top: 20px; /* Ajuste conforme necessário */
 }
-#bannermaclan{
+
+#bannermaclan {
     height: 318px;
     border-radius: 41px;
 }
 
-#quemsoueu{
+#quemsoueu {
     color: white;
     font-size: 26px;
     margin-bottom: -685px;
@@ -150,7 +136,7 @@ main{
     text-transform: uppercase;
 }
 
-#minhafoto{
+#minhafoto {
     border-bottom-right-radius: 163px;
     border-bottom-left-radius: 131px;
     border-top-left-radius: 314px;
@@ -160,6 +146,7 @@ main{
     height: 500px;
 }
 
+/* Rodapé Styles */
 footer {
     background-color: #ffff00;
     padding: 20px;
@@ -178,6 +165,7 @@ footer {
     font-size: 16px;
     font-family: sans-serif;
 }
-.dentrofooter ul{
+
+.dentrofooter ul {
     list-style: none;
 }
