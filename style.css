@@ -132,7 +132,9 @@ main{
 }
 
 .banner-container {
-    height: 33px;
     text-align: center;
     margin-top: 20px; /* Ajuste conforme necessário */
+}
+#bannermaclan{
+    height: 33px;
 }
