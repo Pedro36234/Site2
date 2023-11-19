@@ -62,7 +62,7 @@ nav a {
 main{
     background-color: #3e94ff;
     padding-top: 32px;
-    padding-bottom: 833px;
+    padding-bottom: 50px;
 }
 
 #osmaisqueridinhos {
@@ -141,9 +141,10 @@ main{
 
 #quemsoueu{
     color: white;
-    font-size: 18px;
-    margin-bottom: -407px;
-    padding-left: 662px;
+    font-size: 26px;
+    margin-bottom: -813px;
+    padding-left: 485px;
+    padding-right: 330px;
     font-weight: 900;
     font-family: sans-serif;
     text-transform: uppercase;
