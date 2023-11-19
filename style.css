@@ -37,13 +37,16 @@ nav li {
 }
 
 nav a {
-    font-size: 18px;
+    font-size: 20px;
     font-family: sans-serif;
+    background-color: #ffff00;
     padding: 10px;
     margin-left: 107px;
-    color: #ffffff;
-    border-radius: 295px;
+    color: black;
+    text-transform: uppercase;
+    border-radius: 297px;
     text-decoration: none;
+    font-weight: 600;
 }
 
 #poucodenos {
@@ -60,7 +63,7 @@ nav a {
 
 main{
     background-color: #3e94ff;
-    padding-top: 85px;
+    padding-top: 32px;
     padding-bottom: 833px;
 }
 
@@ -70,16 +73,17 @@ main{
     display: inline-block;
     margin-left: 0px;
     text-transform: uppercase;
-    background-color: #ff0000;
+    background-color: #ff730d;
     padding-right: 495px;
-    padding-left: 490px;
-    margin-top: 26px;
-    color: whitesmoke;
+    padding-left: 491px;
+    margin-top: 0px;
 }
 
 .main-content {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .lanche {
@@ -125,14 +129,4 @@ main{
     font-size: 22px;
     font-weight: bold;
     margin-top: -35px;
-}
-#bannermaclan{
-  
-}
-
-.bannermaclan {
-    height: 50px;
-    margin-bottom: -767px;
-    margin-left: -1323px;
-    border-radius: 37px;
 }
