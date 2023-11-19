@@ -150,5 +150,8 @@ main{
 }
 
 #minhafoto{
-
+    border-bottom-right-radius: 163px;
+    border-bottom-left-radius: 131px;
+    border-top-left-radius: 314px;
+    border-top-right-radius: 607px;
 }
