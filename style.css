@@ -173,21 +173,7 @@ footer {
 
 .dentrofooter {
     flex: 1;
-    text-align: left;
-}
-
-.dentrofooter h3 {
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-.dentrofooter ul {
-    list-style: none;
-    padding: 0;
-}
-
-.dentrofooter li {
-    margin-bottom: 8px;
+    text-align: center;
 }
 
 .dentrofooter a {
