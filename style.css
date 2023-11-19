@@ -134,5 +134,6 @@ main{
     margin-top: 20px; /* Ajuste conforme necessário */
 }
 #bannermaclan{
-    height: 33px;
+    height: 318px;
+    border-radius: 41px;
 }
