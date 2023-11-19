@@ -166,16 +166,31 @@ footer {
     text-align: center;
 }
 
-.footer-content ul {
+.dentrofooter {
+    display: flex;
+    justify-content: space-around;
+}
+
+.dentrofooter {
+    flex: 1;
+    text-align: left;
+}
+
+.dentrofooter h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.dentrofooter ul {
     list-style: none;
     padding: 0;
 }
 
-.footer-content li {
+.dentrofooter li {
     margin-bottom: 8px;
 }
 
-.footer-content a {
+.dentrofooter a {
     text-decoration: none;
     color: #000; /* Change the color to your preference */
     font-weight: bold;
